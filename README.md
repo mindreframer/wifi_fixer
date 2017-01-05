@@ -13,3 +13,8 @@ Current version is only OSX compatible.
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
+
+
+## TODO
+ [X] support recent debian based systems with `sudo systemctl restart networking.service`
+
