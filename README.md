@@ -1,6 +1,7 @@
 # WifiFixer
 
 Little Ruby script to restart WiFi connection when it stalls.
+Current version if only OSX compatible.
 
 ## Installation
 
